@@ -1,0 +1,1 @@
+No borrar este archivo de texto // Archivo para que git no inutilice el proyecto borrando la carpeta
